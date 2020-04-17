@@ -6,3 +6,4 @@ Istio by default create the istio ingress gateway as a load balancer - those of 
 
 
 WATCH VIDEO AT https://www.youtube.com/watch?v=cryTGe5R_hQ&feature=youtu.be
+ALL COMMANDS LOCATED IN TUTORIAL.DOCX IN THIS REPOSITORY
